@@ -1,0 +1,7 @@
+
+// Write a JavaScript program that prints even numbers 
+// from 1 to 100 in descending order in the browser console.
+
+for(var i = 100; i>0 ;i--){
+        console.log(i);
+}
